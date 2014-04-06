@@ -10,7 +10,7 @@ This enables you to have Twitter-like user mentions in textareas
 
 ## Dependencies
 * <a href="https://github.com/jquery/jquery" target="_blank">jQuery</a>
-* <a href="https://github.com/twitter/bootstrap" target="_blank">Typeahead</a>
+* <a href="https://github.com/twitter/typeahead.js" target="_blank">Typeahead</a>
 
 ## Usage
 The `users` parameter accepts an array of objects. Each object ***must*** have a username key in order for this script to work.
